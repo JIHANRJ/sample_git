@@ -2,5 +2,9 @@
 
 main()
 {
-    printf("Hello");
+    for (int i=0;i<11;i++)
+    {
+        printf("Hello");
+    }
+    
 }
